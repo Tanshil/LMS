@@ -33,4 +33,12 @@ A full-featured web-based application to automate library operations using **PHP
 - `Fines` – Tracks overdue fines per book loan
 
 ---
+📌 Future Enhancements
+📱 Mobile-friendly design
+
+🔔 Email reminders for due dates
+
+📚 E-book integration
+
+📈 Advanced analytics & reports
 
